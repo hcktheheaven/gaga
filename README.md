@@ -1,7 +1,9 @@
 Gaga
 ==========
 
-Gaga is a Git-backed key/value store written in Ruby. Built with
+Gaga is a Git-backed key/value store written in Ruby. 
+Built with
+
 [Grit](https://github.com/mojombo/grit), it supports SET, GET, KEYS, and DELETE
 operations. And since it's Git, we can easily enhance it to include other
 awesome Git features such as branches, diffs, reverting, and more!
